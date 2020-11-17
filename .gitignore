@@ -1,0 +1,13 @@
+
+
+# Ignore Mac system files
+.DS_store
+
+
+# Ignore Latex rubish files
+*.aux
+*.log
+*.synctex.gz
+
+
+
